@@ -1,0 +1,4223 @@
+@media (min-width: 1500px) and (max-width: 15000px) {
+    body.realize {
+        overflow: hidden;
+    }
+
+    .multimedia_blk i {
+        width: 395px;
+        height: 260px;
+        display: block;
+        background: #4B4B4B;
+    }
+}
+
+
+/* Big screen :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .container {
+        max-width: 90%;
+    }
+
+    .ft_mid ul li {
+        margin-right: 40px;
+    }
+
+    .sp_container {
+        max-width: 1030px !important;
+    }
+
+    .page_1 {
+        margin: 20px 0 30px;
+    }
+
+    .page_1_cont p {
+        font-size: 20px;
+    }
+
+    .page1-3conts_left img {
+        max-width: 450px;
+    }
+
+    .page1-4_blk {
+        max-width: 270px;
+    }
+
+    .page1-5cont.text-center img {
+        max-width: 720px;
+    }
+
+    .home3_left {
+        max-width: 428px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .vinos_blk .nice-select {
+        width: 250px;
+    }
+
+    .rosados_img {
+        width: 430px;
+    }
+
+    .rosados_wrp {
+        height: 380px;
+    }
+
+    .club2_right_scll {
+        max-height: 300px;
+    }
+
+    .hazte_wrp {
+        max-width: 450px;
+    }
+
+    .Modificar_form {
+        max-width: 450px;
+        margin-left: auto;
+    }
+
+    .hazte_wrp.realiz_2wrp.rlz {
+        max-width: 450px;
+    }
+
+    .hazte_wrp .input_blk.hazte_1input input {
+        max-width: 155px;
+    }
+
+    .hazte_wrp .input_blk label {
+        max-width: 110px;
+    }
+
+    h5.hazte_title {
+        max-width: 890px;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 {
+        max-width: 100% !important;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 p {
+        width: 100%;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp a {
+        left: 54%;
+    }
+
+    body.realize2 .hazte_wrp.realiz_2wrp.rlz .hazte_rdio_btn.hrb_2 {
+        max-width: 240px;
+    }
+
+    body.realize2 .hazte_wrp.realiz_2wrp.rlz .hazte_rdio_btn.hrb_2 label {
+        margin-left: 15px;
+    }
+
+    .Mallorca_card i {
+        width: 165px;
+        height: 165px;
+    }
+
+    .c_form .top_form.mb_form.d-none.show_form {
+        max-width: 350px;
+    }
+
+    .Newsletter input {
+        width: 350px;
+    }
+
+    .multimedia_blk i {
+        height: 170px;
+        width: 100%;
+    }
+
+    section.multimedia .up_down_arrw {
+        right: 20px;
+    }
+
+    .mlt_sgl_item i {
+        width: 535px;
+        height: 355px;
+    }
+
+    .mlt_slider .owl-nav {
+        max-width: 590px;
+    }
+
+    section.mlt_Vertical .mlt_sgl_item i {
+        width: 350px;
+        height: 525px;
+    }
+
+    section.mlt_Vertical .owl-nav {
+        max-width: 410px;
+    }
+
+    section.mlt_Vertical h6 {
+        max-width: 370px;
+        display: block;
+    }
+
+    section.Crear_sec .hazte_wrp.mx-auto {
+        max-width: 350px;
+    }
+
+    section.Crear_sec .Crear_btn {
+        max-width: 350px;
+    }
+
+    .Olvidaste {
+        max-width: 350px;
+    }
+
+    .Mi_cuenta_left {
+        margin: unset;
+    }
+
+    section.Pedido_sec .Modificar_form.hazte_wrp {
+        max-width: 100%;
+    }
+
+    section.Pedido_sec .carrito_2.Pedido_price {
+        max-width: 450px;
+        margin-left: auto;
+    }
+}
+
+
+/* Normal screen :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container {
+        max-width: 90%;
+    }
+
+    footer a {
+        font-size: 12px !important;
+    }
+
+    .resultado_ft {
+        display: none;
+    }
+
+    .rosados_wrp {
+        height: 310px;
+    }
+
+    .ft_mid ul li {
+        margin-right: 20px;
+    }
+
+    .sub_menu_ul li a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .sub_menu_right ul li a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .page_1 {
+        margin: 20px 0 30px;
+    }
+
+    .page_1_cont p {
+        font-size: 18px;
+    }
+
+    .page1-3conts_left img {
+        max-width: 350px;
+    }
+
+    .page1-4_blk {
+        max-width: 260px;
+    }
+
+    .page1-4_blk a {
+        font-size: 14px;
+    }
+
+    .page1-4_blk p {
+        font-size: 13px;
+    }
+
+    .page1-5cont.text-center img {
+        max-width: 720px;
+    }
+
+    .vinos_blk .nice-select {
+        width: 250px;
+    }
+
+    .rosados_img {
+        max-width: 450px;
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 270px;
+    }
+
+    .up_down_arrw {
+        display: none;
+    }
+
+    .bono_left {
+        width: 400px;
+    }
+
+    .bono_left .info_blk p {
+        max-width: 380px;
+    }
+
+    .bono_right {
+        max-width: 400px;
+    }
+
+    section.full_slider.club_sec .row {
+        align-items: center;
+    }
+
+    .bono_left img {
+        /* max-width: 430px; */
+        margin: auto;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .club2_right_scll {
+        max-height: 300px;
+    }
+
+    section.full_slider.newslatter.black .row {
+        margin-top: 85px;
+    }
+
+    main#resultado section {
+        overflow: auto;
+    }
+
+    .resultado_hd {
+        background: black;
+    }
+
+    .hazte_wrp {
+        max-width: 450px;
+        margin: unset;
+    }
+
+    .hazte_wrp.realiz_2wrp.rlz {
+        max-width: 450px;
+    }
+
+    .hazte_wrp .input_blk.hazte_1input input {
+        max-width: 155px;
+    }
+
+    .hazte_wrp .input_blk label {
+        max-width: 120px;
+    }
+
+    h5.hazte_title {
+        max-width: 890px;
+    }
+
+    .IBAN ul li a {
+        margin-bottom: 5px;
+        display: inline-block;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 p {
+        width: 100%;
+    }
+
+    .Mallorca_card i {
+        width: 165px;
+        height: 165px;
+    }
+
+    .c_form .top_form.mb_form.d-none.show_form {
+        max-width: 350px;
+    }
+
+    .Newsletter input {
+        width: 350px;
+    }
+
+    .multimedia_blk i {
+        height: 170px;
+        width: 100%;
+    }
+
+    section.multimedia .up_down_arrw {
+        right: 20px;
+        display: block;
+    }
+
+    .mlt_sgl_item i {
+        width: 535px;
+        height: 355px;
+    }
+
+    .mlt_slider .owl-nav {
+        max-width: 590px;
+    }
+
+    section.mlt_Vertical .mlt_sgl_item i {
+        width: 350px;
+        height: 525px;
+    }
+
+    section.mlt_Vertical .owl-nav {
+        max-width: 410px;
+    }
+
+    section.mlt_Vertical h6 {
+        max-width: 370px;
+        display: block;
+    }
+
+    section.Crear_sec .hazte_wrp.mx-auto {
+        max-width: 350px;
+    }
+
+    section.Crear_sec .Crear_btn {
+        max-width: 350px;
+    }
+
+    .Olvidaste {
+        max-width: 350px;
+    }
+
+    .Mi_cuenta_left {
+        margin: unset;
+    }
+
+    section.Pedido_sec .Modificar_form.hazte_wrp {
+        max-width: 100%;
+    }
+}
+
+
+/* Tablet screen :768px. ========================================================*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    div#btm_menu {
+        display: none;
+    }
+
+    .desktop_show {
+        display: none;
+    }
+
+    footer .row .col-lg-9,
+    footer .row .col-lg-1 {
+        display: none;
+    }
+    .privacidad {
+        max-width: 600px;
+        margin: auto;
+    }
+    footer.f_position.footer.black.priv_ftr {
+        display: none;
+    }
+    a.fl_left {
+        display: none;
+    }
+
+    .left_link ul {
+        width: max-content;
+        margin: auto;
+        position: relative;
+    }
+
+    .left_link_list {
+        position: unset;
+    }
+
+    .left_link ul li {
+        position: absolute;
+        opacity: 0;
+    }
+
+    .left_link ul li.active {
+        opacity: 1;
+    }
+
+    .left_link ul li.active:before {
+        width: 35px;
+        height: 1px;
+        left: -45px;
+        top: 10px;
+    }
+
+    .left_link ul li.active:after {
+        content: "";
+        position: absolute;
+        top: 11px;
+        right: -45px;
+        width: 35px;
+        height: 1px;
+        background: white;
+    }
+
+    .left_link ul:before {
+        display: none;
+    }
+
+    .logo-area {
+        flex-direction: column;
+    }
+
+    .src_box {
+        margin: 0;
+        margin-top: 20px;
+        width: 90%;
+    }
+
+    .sub_menu_ul li a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .sub_menu_right ul li a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .page_1 {
+        margin: 0px 0 30px;
+    }
+
+    .page_1_cont p {
+        font-size: 20px;
+    }
+
+    .page1-3cont_wrp {
+        justify-content: center;
+    }
+
+    .page1-3conts_left img {
+        max-width: 450px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .mobile_show {
+        display: block;
+    }
+
+    h5.page1-4_text {
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
+
+    .page1-5cont.text-center img {
+        transform: rotate(270deg);
+        max-width: 470px;
+        margin-bottom: 60px;
+    }
+
+    .page1-5cont.text-center .page1-3cont {
+        transform: translateY(144px);
+        max-width: 70%;
+        margin: auto;
+    }
+
+    .page1-5cont.text-center {
+        margin-top: 75px;
+    }
+
+    .home3_left {
+        max-width: 430px;
+        margin: auto;
+    }
+
+    .home3_cont h1 {
+        font-size: 50px;
+    }
+
+    .home3_cont {
+        text-align: center;
+        margin: auto;
+    }
+
+    p.Lugar {
+        display: none;
+    }
+
+    .home3_cont span {
+        margin: auto;
+    }
+
+    .home3_cont .p1_btn {
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    .home3_cont h6 {
+        margin-bottom: 16px;
+    }
+
+    .home3_cont h5 {
+        width: max-content;
+        margin: 20px auto;
+    }
+
+    .vinos_blk .nice-select {
+        width: 250px;
+        margin-bottom: 25px;
+        height: 150px;
+    }
+
+    .rosados_img {
+        max-width: 450px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .up_down_arrw {
+        display: none;
+    }
+
+    .bono_left {
+        width: 450px;
+    }
+
+    .bono_left .info_blk p {
+        max-width: 430px;
+    }
+
+    .bono_right {
+        max-width: 450px;
+        background: #000;
+    }
+
+    .bono_left img {
+        /* max-width: 430px; */
+        margin: auto;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    section.full_slider.vinos {
+        padding-top: 50px;
+        background: #000;
+    }
+
+    .vinos_src p {
+        display: none;
+    }
+
+    .src_box.vinos_src_box {
+        display: none;
+    }
+
+    .vinos_src {
+        margin-bottom: 40px;
+    }
+
+    section.full_slider.newslatter.black {
+        padding-bottom: 200px;
+        overflow: auto;
+    }
+
+section.full_slider.newslatter.black.bono_left {
+    overflow: unset;
+}
+
+    .info_blk {
+        width: 90%;
+    }
+
+    .club_left {
+        max-width: 440px;
+        margin: auto;
+        margin: 11px auto 25px;
+    }
+
+    section.full_slider.club_sec {
+        background: black;
+        overflow: hidden;
+    }
+
+    .club_right a {
+        /* bottom: auto; */
+        position: unset;
+        margin: 10px auto 10px;
+        background: black;
+        display: block;
+        left: 50%;
+        width: max-content;
+    }
+
+    .club_right {
+        height: 100%;
+        /* overflow: auto; */
+        max-width: 500px;
+        margin: auto;
+        /* max-height: 300px; */
+        text-align: center;
+    }
+
+    .club_right ul {
+        /* max-height: 170px; */
+        overflow: auto;
+    }
+
+    .club_right ul li {
+        text-align: left;
+    }
+
+    h6.club_title {
+        display: none;
+    }
+
+    #club_title {
+        display: block !important;
+        text-align: center;
+    }
+
+    section.full_slider.club_sec2 {
+        padding-top: 399px;
+        background: black;
+        padding-bottom: 10px;
+        overflow: auto;
+    }
+
+    .clb_sct {
+        position: absolute;
+        margin-bottom: 0;
+        right: 10px;
+        top: 30px;
+        transform: translateY(-10px);
+    }
+
+    h6.clb2 {
+        margin-top: 30px;
+    }
+
+    section.full_slider.club_sec2 .container {
+        max-width: 620px;
+    }
+
+    section.full_slider.newslatter.black .row {
+        margin-top: 585px;
+    }
+
+    main#resultado section {
+        overflow: auto;
+        padding-top: 281px;
+    }
+
+    .resultado_hd {
+        background: black;
+    }
+
+    .club2_right_scll {
+        padding-bottom: 30px;
+        text-align: center;
+        max-height: unset;
+        overflow: auto;
+    }
+
+    ul.club2_ul1 {
+        width: max-content;
+        margin: auto;
+        text-align: left;
+    }
+
+    .club2_right a.btn {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    section.full_slider.hazte.black {
+        overflow: auto;
+    }
+
+    h5.hazte_title {
+        margin-top: 27px;
+        max-width: 450px;
+        margin-bottom: 0;
+    }
+
+    .hazte_wrp {
+        margin: auto;
+        max-width: 450px;
+        margin-top: 15px;
+    }
+
+    .Modificar_form {
+        margin: auto;
+        max-width: 450px;
+        margin-top: 15px;
+    }
+
+    .hazte_wrp.realiz_2wrp.rlz {
+        max-width: 450px;
+        margin: auto;
+    }
+
+    .hazte_wrp .input_blk {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    section.mdp {
+        padding-top: 120px !important;
+    }
+section.full_slider.Actividades {
+    margin-bottom: 50px;
+}
+    section.mdp .slider_page {
+        display: unset;
+    }
+
+    .home_sec3 h6.sec_title {
+        margin-top: 15px;
+    }
+
+    .header-area {
+        background: black;
+    }
+
+.header-area.h_position.hd_home {
+    background: no-repeat;
+}
+
+    .hazte_wrp .input_blk.hazte_1input input {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .hazte_2input {
+        display: block;
+    }
+
+    .hazte_2input input {
+        margin-bottom: 10px;
+    }
+
+    .p2_btn {
+        display: flex;
+        flex-direction: column;
+        width: max-content;
+        margin: auto;
+    }
+
+    .act_footer {
+        padding: 40px 0 30px;
+    }
+
+    .act_footer a {
+        text-align: center;
+        display: block !important;
+    }
+
+    section#Actividades .owl-nav {
+        position: fixed;
+        top: auto;
+        bottom: 10px;
+    }
+
+    a.texto.title {
+        display: none;
+    }
+
+    section.full_slider.carrito.mdp {
+        margin-top: 50px;
+    }
+
+    section.full_slider.carrito.carrito2.mdp {
+        margin: 0;
+        overflow: auto;
+        margin-bottom: 30px;
+    }
+
+    body.realize2 section {
+        margin: 20px 0;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 p {
+        width: 100%;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp a {
+        left: 55%;
+    }
+
+    .Mallorca_card i {
+        width: 140px;
+        height: 140px;
+        margin: auto;
+    }
+
+    .carrito_top_check h5 {
+        margin-top: 0;
+    }
+
+    .pago_blk .checkmark {
+        left: 50%;
+        top: -34px;
+    }
+
+    .pago_blk span {
+        text-align: center;
+        max-width: 150px;
+    }
+
+    .pago_last_blk {
+        flex-direction: column;
+    }
+
+    .carrito2 .carrito_btn_wrp {
+        margin-bottom: 55px;
+    }
+
+    .pago_blk2_wrp {
+        margin: 20px 0;
+    }
+
+    .error_wrp {
+        max-width: 600px;
+        margin-top: 40px;
+    }
+
+    .c_form .top_form.mb_form.d-none.show_form {
+        max-width: 300px;
+    }
+
+    .Newsletter input {
+        width: 300px;
+    }
+
+    .nice-select.multimedia_sl {
+        height: unset;
+    }
+
+    section.multimedia {
+        margin-top: 15px;
+    }
+
+    .multimedia_all_blk {
+        margin: 20px auto;
+        overflow: auto;
+        height: unset;
+        padding: 0 20px;
+        max-width: 620px;
+    }
+
+    .multimedia_blk i {
+        width: 100%;
+        height: 200px;
+        margin: auto;
+    }
+
+    .m_media_footer {
+        display: none;
+    }
+
+    .mlt_sgl_item i {
+        width: 450px;
+        height: 300px;
+    }
+
+    .mlt_slider .owl-nav {
+        max-width: 510px;
+    }
+
+    .mlt_sgl_item {
+        max-width: 450px;
+    }
+
+    section.mlt_Vertical .mlt_sgl_item i {
+        width: 300px;
+        height: 440px;
+    }
+
+    section.mlt_Vertical .owl-nav {
+        max-width: 365px;
+    }
+
+    section.mlt_Vertical h6 {
+        max-width: 280px;
+    }
+
+    .Mallorca_wrp {
+        flex-wrap: wrap;
+    }
+
+    .Mallorca_card {
+        margin-bottom: 15px;
+    }
+
+    section.Crear_sec .hazte_wrp.mx-auto {
+        max-width: 450px;
+    }
+
+    section.Crear_sec .Crear_btn {
+        max-width: 450px;
+    }
+
+    .hazte_wrp.cuenta_wrp h5 {
+        position: unset;
+    }
+
+    .fm_none {
+        display: none;
+    }
+
+    .Olvidaste {
+        max-width: 350px;
+    }
+
+    .mi_mis {
+        justify-content: center;
+        display: block;
+    }
+
+    .mi_mis_wrp {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .Mi_cuenta_left {
+        max-width: 440px;
+        margin: unset;
+        margin: auto;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    .Mi_cuenta_left .mi_mis_wrp {
+        margin: unset;
+    }
+
+    a.btn.Cr_btn.Guardar {
+        margin-bottom: 50px;
+        float: unset;
+    }
+
+    .Modificar {
+        max-width: 435px;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .Modificar_blk:nth-child(2) {
+        margin: 35px 0px;
+    }
+
+    section.Pedido_sec .Mi_cuenta_left.modif_left {
+        max-width: 620px;
+    }
+
+    section.Pedido_sec .Modificar_form.hazte_wrp {
+        max-width: 620px;
+        margin: auto;
+    }
+
+    section.Pedido_sec .carrito_price.mdf_price {
+        max-width: 620px;
+        margin: auto;
+        margin-top: 55px;
+    }
+
+    section.Pedido_sec .container.sp_container {
+        max-width: 620px;
+    }
+    .rosados_wrp {
+        height: auto;
+    }
+}
+
+
+/* small screen :320px. ========================================================*/
+
+@media (max-width: 767px) {
+    .header-area {
+        background: black;
+    }
+
+    div#btm_menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        width: 100%;
+    }
+
+    .left_link ul:before {
+        display: none;
+    }
+
+    .logo-area {
+        flex-direction: column;
+    }
+
+    .src_box {
+        margin: 0;
+        margin-top: 20px;
+        width: 90%;
+    }
+
+    .sub_menu_ul li a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .sub_menu_right ul li a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .page_1 {
+        margin: 0px 0 30px;
+    }
+
+    .page_1_cont p {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1.5;
+    }
+
+    .menu_item {
+        width: max-content;
+        margin-left: auto;
+    }
+
+    .page_1_none {
+        display: none;
+    }
+
+    .page1-3cont_wrp {
+        justify-content: center;
+        text-align: center;
+        max-width: 250px;
+        margin: auto;
+    }
+
+    .page1-3cont h5 {
+        font-size: 22px;
+    }
+
+    .page1-3conts_left img {
+        max-width: 250px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .mobile_show {
+        display: block;
+    }
+
+    .desktop_show {
+        display: none;
+    }
+
+    h5.page1-4_text {
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
+
+    .page1-5cont.text-center img {
+        transform: rotate(270deg);
+        max-width: 270px;
+        margin-bottom: -2px;
+    }
+
+    .page1-5cont.text-center .page1-3cont {
+        transform: translateY(144px);
+        margin: auto;
+    }
+
+    .page1-5cont.text-center .page1-4_blk_btm .p1_btn {
+        margin: unset;
+    }
+
+    .page1-5cont.text-center .page1-4_blk_btm {
+        justify-content: space-between;
+    }
+
+    .page1-5cont.text-center .page1-4_blk_btm a {
+        margin: unset;
+    }
+
+    .home3_cont span {
+        margin: auto;
+        font-size: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: max-content;
+        margin-left: -28px;
+    }
+
+    .home3_cont .p1_btn {
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    .home3_cont h6 {
+        margin-bottom: 16px;
+    }
+
+    .home3_cont h1 {
+        font-size: 35px;
+    }
+
+    .home3_cont {
+        text-align: center;
+        max-width: 240px;
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    p.Lugar {
+        display: none;
+    }
+
+    footer .row .col-lg-9,
+    footer .row .col-lg-1 {
+        display: none;
+    }
+
+    a.fl_left {
+        display: none;
+    }
+
+    .left_link ul {
+        width: max-content;
+        margin: auto;
+        position: relative;
+    }
+
+    .left_link_list {
+        position: unset;
+    }
+
+    .left_link ul li {
+        position: absolute;
+        opacity: 0;
+    }
+
+    .left_link ul li.active {
+        opacity: 1;
+    }
+
+    .left_link ul li.active:before {
+        width: 35px;
+        height: 1px;
+        left: -45px;
+        top: 10px;
+    }
+
+    .left_link ul li.active:after {
+        content: "";
+        position: absolute;
+        top: 11px;
+        right: -45px;
+        width: 35px;
+        height: 1px;
+        background: white;
+    }
+
+    .home3_left {
+        max-width: 240px;
+        margin: auto;
+    }
+
+    .home3_cont p {
+        margin-right: 15px;
+    }
+
+    .home3_cont h5 {
+        display: none;
+    }
+
+    .productos {
+        justify-content: space-between;
+        max-width: 365px;
+        margin: auto;
+    }
+
+    .productos ul {
+        width: 160px;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+    section.full_slider.vinos {
+        padding-top: 30px;
+        background: #000;
+    }
+
+    .vinos_src p {
+        display: none;
+    }
+
+    .src_box.vinos_src_box {
+        display: none;
+    }
+
+    .vinos_src {
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    section.full_slider.newslatter.black {
+        padding-bottom: 200px;
+        overflow: auto;
+    }
+
+    .chk_submit {
+        flex-wrap: wrap;
+        justify-content: end;
+    }
+
+    .bono_left img {
+        width: 100%;
+    }
+
+    .rosados_img img {
+        max-width: 240px;
+        margin: auto;
+    }
+
+    .rosados_img {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .vinos_blk .nice-select {
+        height: 125px;
+        margin-top: 30px;
+        max-width: 200px;
+    }
+
+    ul.rosados_list li {
+        flex-direction: column;
+        max-width: 370px;
+        margin: auto;
+    }
+
+    .rosados_blk_left ul li {
+        width: max-content;
+    }
+
+    .up_down_arrw {
+        display: none;
+    }
+
+    .rosados_title ul {
+        display: none;
+    }
+
+    ul.rosados_list li .rosados_blk_left {
+        margin-bottom: 13px;
+    }
+
+    .rosados_title {
+        max-width: 370px;
+        margin: auto;
+    }
+
+    .rosados_cont h5 {
+        max-width: 370px;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+    .bono_left {
+        max-width: 350px;
+        margin: auto;
+    }
+
+    .bono_right {
+        max-width: 350px;
+        margin: auto;
+    }
+
+    .vinos_src h5 {
+        width: 100%;
+    }
+
+    .club_left {
+        max-width: 250px;
+        margin: auto;
+        margin: 27px auto 25px;
+    }
+
+    section.full_slider.club_sec {
+        background: black;
+        /* overflow: hidden; */
+        overflow: auto;
+        height: max-content;
+    }
+
+    .club_right a {
+        /* bottom: auto; */
+        position: unset;
+        margin: 20px auto 20px;
+        background: black;
+        display: block;
+        left: 50%;
+        width: max-content;
+    }
+
+    .club_right {
+        /* overflow: auto; */
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+    }
+
+
+    .club_right ul li {
+        text-align: left;
+    }
+
+    .club_right ul li p {
+        width: 89%;
+    }
+
+    h6.club_title {
+        display: none;
+    }
+
+    #club_title {
+        display: block !important;
+        text-align: center;
+    }
+
+    section.full_slider.newslatter.black .row {
+        margin-top: 585px;
+    }
+
+    .Destilados {
+        overflow: auto;
+        padding-top: 80px;
+    }
+
+    main#resultado section {
+        overflow: auto;
+        padding-top: 180px;
+    }
+
+    .club2_right_scll {
+        padding-bottom: 30px;
+        text-align: center;
+        overflow: auto;
+        height: max-content;
+        max-height: 100%;
+    }
+
+    .clb_sct {
+        margin-top: 20px;
+    }
+
+    ul.club2_ul1 {
+        width: max-content;
+        margin: auto;
+        text-align: left;
+    }
+
+    .club_sec2_none {
+        display: none;
+    }
+
+    section.full_slider.club_sec2 {
+        padding-top: 133px;
+        background: black;
+        padding-bottom: 20px;
+        overflow: auto;
+    }
+
+    .club_sgl-img {
+        text-align: center;
+        width: max-content;
+        margin: auto;
+    }
+
+    .club2_right a.btn {
+        margin: auto;
+    }
+
+    h6.clb2 {
+        margin: auto;
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: -20px;
+    }
+
+    section.full_slider.club_sec2 .col-12 {
+        display: block !important;
+    }
+
+    .club_m_slider .owl-dots {
+        display: flex;
+        width: max-content;
+        margin: auto;
+        transform: translateY(15px);
+    }
+
+    .club_m_slider .owl-dot {
+        width: 10px;
+        height: 10px;
+        border: 1px solid #fff;
+        border-radius: 50%;
+        margin: 0 2px;
+    }
+
+    .club_m_slider .owl-dot.active {
+        background: #fff;
+    }
+
+    section.full_slider.hazte.black {
+        overflow: auto;
+    }
+
+    h5.hazte_title {
+        margin-top: 27px;
+        max-width: 450px;
+        margin-bottom: 15px;
+    }
+
+    .hazte_wrp {
+        margin: auto;
+        max-width: 450px;
+    }
+
+    .hazte_wrp .input_blk {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .input_blk.textarea textarea {
+        height: 150px;
+        padding: 10px;
+    }
+
+    section.mdp {
+        padding-top: 120px !important;
+    }
+
+    section.mdp .slider_page {
+        display: unset;
+    }
+
+    .header-area {
+        background: black;
+    }
+
+    .hazte_wrp .input_blk.hazte_1input input {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .hazte_2input {
+        display: block;
+    }
+
+    .hazte_2input input {
+        margin-bottom: 10px;
+    }
+
+    .hazte_rdio_btn {
+        display: block;
+    }
+
+    .hazte_rdio_wrp {
+        width: 100%;
+        justify-content: inherit;
+        max-width: 190px;
+        margin-top: 15px;
+    }
+
+    .hazte_rdio_wrp label {
+        margin: 0;
+    }
+
+    .hazte_wrp .chk_submit {
+        justify-content: start;
+    }
+
+    .IBAN ul li a {
+        display: block;
+        margin-bottom: 10px;
+        margin-right: 5px;
+    }
+
+    .IBAN ul {
+        margin-bottom: 10px;
+    }
+
+    .p2_btn {
+        display: flex;
+        flex-direction: column;
+        width: max-content;
+        margin: auto;
+    }
+
+    .act_footer {
+        padding: 40px 0 30px;
+    }
+
+    .act_footer a {
+        text-align: center;
+        display: block !important;
+    }
+
+    section#Actividades .owl-nav {
+        position: fixed;
+        top: auto;
+        bottom: 10px;
+    }
+
+    section#Actividades h6.sec_title {
+        margin-top: 20px;
+    }
+
+    .carrito_price_blk {
+        display: block;
+        min-width: 310px;
+        /* max-width: 350px; */
+        width: 100%;
+        margin: auto;
+        margin-bottom: 30px;
+        max-width: 310px;
+    }
+
+    .carrito_price_cont ul {
+        /* position: unset; */
+        top: -28px;
+        display: flex !important;
+        max-width: 300px;
+        margin-right: 8px;
+    }
+
+    .carrito_price_cont {
+        margin-top: 40px;
+        max-width: 310px;
+    }
+
+    .carrito_price_cont ul li:nth-child(2) {
+        margin-left: 35px;
+    }
+
+    .carrito_2 ul li:first-child {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    section.carrito .row:last-child {
+        max-width: 320px;
+        margin: auto;
+    }
+
+    .carrito_btn_wrp {
+        display: block;
+    }
+
+    .carrito_btn a {
+        max-width: 100%;
+    }
+
+    a.texto.title {
+        margin-bottom: 20px;
+        display: none;
+    }
+
+    h5.title {
+        max-width: 310px;
+        margin: auto;
+        margin: 30px auto;
+    }
+
+    a.real {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    h5.r_title {
+        width: 100%;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp {
+        width: max-content;
+        margin-left: auto;
+    }
+
+    .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp a {
+        left: 60%;
+    }
+
+    body.realize2 section {
+        margin: 10px 0 10px;
+    }
+
+    body.realize2 footer {
+        display: none;
+    }
+
+    .Mallorca_card i {
+        width: 140px;
+        height: 140px;
+        margin: auto;
+    }
+
+    .Mallorca_card {
+        margin-bottom: 30px;
+    }
+
+    .Mallorca_cont {
+        margin-bottom: 15px;
+    }
+
+    section.Mallorca .slider_page {
+        display: unset;
+    }
+
+    .Mallorca {
+        padding-top: 85px;
+    }
+
+    .Mallorca_title a {
+        left: 50%;
+        top: -60px;
+    }
+
+    .Mallorca_wrp {
+        flex-wrap: wrap;
+    }
+
+    .carrito_price_blk {
+        max-width: 100%;
+    }
+
+    .carrito_top_check h5 {
+        margin: 30px 0 10px;
+    }
+
+    .carrito_top_check .hazte_rdio_btn.hrb_2 {
+        margin-bottom: 30px;
+    }
+
+    .carrito2 .rosados_blk_right.carrito_price_cont {
+        margin-left: auto;
+    }
+
+    .carrito2 .rosados_blk_right.carrito_price_cont ul {
+        max-width: 261px;
+    }
+
+    .carrito2 .rosados_blk_right.carrito_price_cont ul li:nth-child(2) {
+        margin: 0;
+    }
+
+    .carrito2 .carrito_btn_wrp a {
+        width: 220px !important;
+        padding: 0;
+        justify-content: center;
+        margin: 0 auto 20px;
+    }
+
+    .pago_blk {
+        margin: auto;
+        max-width: 220px;
+    }
+
+    .pago_blk2_wrp {
+        margin-top: 0;
+        margin-left: -20px;
+        margin-bottom: 20px;
+    }
+
+    .pago_blk .chk_submit {
+        justify-content: space-evenly;
+    }
+
+    .pago_blk2_wrp .pago_blk .checkmark {
+        left: 0;
+        top: 9%;
+    }
+
+    .pago_blk2_wrp .pago_blk {
+        max-width: 155px;
+        width: max-content;
+        margin-right: 12px;
+    }
+
+    .pago_blk2_wrp .pago_blk label span {
+        text-align: left;
+    }
+
+    .pago_blk2_wrp .pago_blk:last-child {
+        margin: 0;
+    }
+
+    .carrito2 {
+        margin-bottom: 30px;
+    }
+
+    section.carrito .row:nth-child(2) {
+        /* margin: unset; */
+        --bs-gutter-x: -0rem;
+    }
+
+    .error_wrp {
+        max-width: 350px;
+        margin-top: 40px;
+    }
+
+    .c_form .top_form.mb_form.d-none.show_form {
+        max-width: 300px;
+    }
+
+    .iniciada_blk {
+        max-width: 190px;
+    }
+
+    .Newsletter input {
+        width: 300px;
+    }
+
+    .nice-select.multimedia_sl {
+        height: unset;
+        margin-top: 0;
+    }
+
+    section.multimedia {
+        margin-top: 15px;
+    }
+
+    .multimedia_all_blk {
+        margin: 20px 0;
+        overflow: auto;
+        height: unset;
+        padding: 0 20px;
+    }
+
+    .multimedia_blk i {
+        max-width: 300px;
+        height: 200px;
+        margin: auto;
+    }
+
+    .m_media_footer {
+        display: none;
+    }
+
+    p.HECHO {
+        max-width: 300px;
+        margin: auto;
+        margin-bottom: 10px;
+        margin-top: 15px;
+    }
+
+    .mlt_sgl_item i {
+        width: 300px;
+        height: 200px;
+    }
+
+    .mlt_slider .owl-nav {
+        max-width: 300px;
+        bottom: -35px;
+        top: auto;
+    }
+
+    .mlt_sgl_item {
+        width: 300px;
+    }
+
+    section.mlt_Vertical .mlt_sgl_item i {
+        width: 225px;
+        height: 335px;
+    }
+
+    section.mlt_Vertical .owl-nav {
+        max-width: 220px;
+    }
+
+    section.mlt_Vertical h6 {
+        max-width: 210px;
+    }
+
+    section.Mallorca2 .Mallorca_title {
+        margin-bottom: 30px;
+    }
+
+    section.Crear_sec .hazte_wrp.mx-auto {
+        max-width: 310px;
+    }
+
+    section.Crear_sec .Crear_btn {
+        max-width: 310px;
+    }
+
+    .Crear_btn .chk_submit.hazte_submit {
+        flex-wrap: unset;
+    }
+
+    .hazte_wrp.cuenta_wrp h5 {
+        position: unset;
+    }
+
+    .fm_none {
+        display: none;
+    }
+
+    .Olvidaste {
+        max-width: 350px;
+    }
+
+    .mi_mis {
+        justify-content: center;
+    }
+
+    .mi_mis_wrp {
+        margin-bottom: 30px;
+    }
+
+    .Mi_cuenta_left {
+        max-width: 285px;
+        margin: unset;
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .Mi_cuenta_left.modif_left {
+        padding: 0 20px;
+        max-width: 100%;
+    }
+
+
+
+    .Mi_cuenta_left .mi_mis_wrp {
+        margin: unset;
+        width: 100%;
+    }
+
+    a.btn.Cr_btn.Guardar {
+        float: unset;
+        margin-bottom: 50px;
+    }
+
+    .cr_submit.Guardar-2btn a.btn.Cr_btn.Guardar {
+        margin-bottom: 15px;
+    }
+
+    .cr_submit.Guardar-2btn {
+        margin-bottom: 20px;
+        justify-content: center;
+        display: block;
+        margin: auto;
+        width: max-content;
+    }
+
+    .Modificar {
+        max-width: 435px;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .Modificar_blk {
+        flex-wrap: wrap;
+        justify-content: left;
+    }
+
+    .Modificar_blk a.btn.Cr_btn {
+        margin-left: auto;
+    }
+
+    .carrito_2.Pedido_price {
+        margin: 0;
+        padding: 0 20px;
+    }
+
+    .carrito_2.Pedido_price ul li:first-child {
+        display: flex;
+    }
+
+    @media (min-width: 1500px) and (max-width: 15000px) {
+        body.realize {
+            overflow: hidden;
+        }
+
+        .multimedia_blk i {
+            width: 395px;
+            height: 260px;
+            display: block;
+            background: #4B4B4B;
+        }
+    }
+
+
+    /* Big screen :1200px. */
+
+    @media (min-width: 1200px) and (max-width: 1500px) {
+        .container {
+            max-width: 90%;
+        }
+
+        .ft_mid ul li {
+            margin-right: 40px;
+        }
+
+        .sp_container {
+            max-width: 1030px !important;
+        }
+
+        .page_1 {
+            margin: 20px 0 30px;
+        }
+
+        .page_1_cont p {
+            font-size: 20px;
+        }
+
+        .page1-3conts_left img {
+            max-width: 450px;
+        }
+
+        .page1-4_blk {
+            max-width: 270px;
+        }
+
+        .page1-5cont.text-center img {
+            max-width: 720px;
+        }
+
+        .home3_left {
+            max-width: 428px;
+            text-align: center;
+            margin: auto;
+        }
+
+        .vinos_blk .nice-select {
+            width: 250px;
+        }
+
+        .rosados_img {
+            width: 430px;
+        }
+
+        .rosados_wrp {
+            height: 380px;
+        }
+
+        .club2_right_scll {
+            max-height: 300px;
+        }
+
+        .hazte_wrp {
+            max-width: 450px;
+        }
+
+        .Modificar_form {
+            max-width: 450px;
+            margin-left: auto;
+        }
+
+        .hazte_wrp.realiz_2wrp.rlz {
+            max-width: 450px;
+        }
+
+        .hazte_wrp .input_blk.hazte_1input input {
+            max-width: 155px;
+        }
+
+        .hazte_wrp .input_blk label {
+            max-width: 110px;
+        }
+
+        h5.hazte_title {
+            max-width: 890px;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 {
+            max-width: 100% !important;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 p {
+            width: 100%;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp a {
+            left: 54%;
+        }
+
+        body.realize2 .hazte_wrp.realiz_2wrp.rlz .hazte_rdio_btn.hrb_2 {
+            max-width: 240px;
+        }
+
+        body.realize2 .hazte_wrp.realiz_2wrp.rlz .hazte_rdio_btn.hrb_2 label {
+            margin-left: 15px;
+        }
+
+        .Mallorca_card i {
+            width: 165px;
+            height: 165px;
+        }
+
+        .c_form .top_form.mb_form.d-none.show_form {
+            max-width: 350px;
+        }
+
+        .Newsletter input {
+            width: 350px;
+        }
+
+        .multimedia_blk i {
+            height: 170px;
+            width: 100%;
+        }
+
+        section.multimedia .up_down_arrw {
+            right: 20px;
+        }
+
+        .mlt_sgl_item i {
+            width: 535px;
+            height: 355px;
+        }
+
+        .mlt_slider .owl-nav {
+            max-width: 590px;
+        }
+
+        section.mlt_Vertical .mlt_sgl_item i {
+            width: 350px;
+            height: 525px;
+        }
+
+        section.mlt_Vertical .owl-nav {
+            max-width: 410px;
+        }
+
+        section.mlt_Vertical h6 {
+            max-width: 370px;
+            display: block;
+        }
+
+        section.Crear_sec .hazte_wrp.mx-auto {
+            max-width: 350px;
+        }
+
+        section.Crear_sec .Crear_btn {
+            max-width: 350px;
+        }
+
+        .Olvidaste {
+            max-width: 350px;
+        }
+
+        .Mi_cuenta_left {
+            margin: unset;
+        }
+
+        section.Pedido_sec .Modificar_form.hazte_wrp {
+            max-width: 100%;
+        }
+
+        section.Pedido_sec .carrito_2.Pedido_price {
+            max-width: 450px;
+            margin-left: auto;
+        }
+    }
+
+
+    /* Normal screen :992px. */
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+        .container {
+            max-width: 90%;
+        }
+
+        footer a {
+            font-size: 12px !important;
+        }
+
+        .resultado_ft {
+            display: none;
+        }
+
+        .rosados_wrp {
+            height: 310px;
+        }
+
+        .ft_mid ul li {
+            margin-right: 20px;
+        }
+
+        .sub_menu_ul li a {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .sub_menu_right ul li a {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .page_1 {
+            margin: 20px 0 30px;
+        }
+
+        .page_1_cont p {
+            font-size: 18px;
+        }
+
+        .page1-3conts_left img {
+            max-width: 350px;
+        }
+
+        .page1-4_blk {
+            max-width: 260px;
+        }
+
+        .page1-4_blk a {
+            font-size: 14px;
+        }
+
+        .page1-4_blk p {
+            font-size: 13px;
+        }
+
+        .page1-5cont.text-center img {
+            max-width: 720px;
+        }
+
+        .vinos_blk .nice-select {
+            width: 250px;
+        }
+
+        .rosados_img {
+            max-width: 450px;
+            margin: auto;
+            margin-bottom: 20px;
+            margin-top: 270px;
+        }
+
+        .up_down_arrw {
+            display: none;
+        }
+
+        .bono_left {
+            width: 400px;
+        }
+
+        .bono_left .info_blk p {
+            max-width: 380px;
+        }
+
+        .bono_right {
+            max-width: 400px;
+        }
+
+        section.full_slider.club_sec .row {
+            align-items: center;
+        }
+
+        .bono_left img {
+            /* max-width: 430px; */
+            margin: auto;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+
+        .club2_right_scll {
+            max-height: 300px;
+        }
+
+        section.full_slider.newslatter.black .row {
+            margin-top: 85px;
+        }
+
+        main#resultado section {
+            overflow: auto;
+        }
+
+        .resultado_hd {
+            background: black;
+        }
+
+        .hazte_wrp {
+            max-width: 450px;
+            margin: unset;
+        }
+
+        .hazte_wrp.realiz_2wrp.rlz {
+            max-width: 450px;
+        }
+
+        .hazte_wrp .input_blk.hazte_1input input {
+            max-width: 155px;
+        }
+
+        .hazte_wrp .input_blk label {
+            max-width: 120px;
+        }
+
+        h5.hazte_title {
+            max-width: 890px;
+        }
+
+        .IBAN ul li a {
+            margin-bottom: 5px;
+            display: inline-block;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 p {
+            width: 100%;
+        }
+
+        .Mallorca_card i {
+            width: 165px;
+            height: 165px;
+        }
+
+        .c_form .top_form.mb_form.d-none.show_form {
+            max-width: 350px;
+        }
+
+        .Newsletter input {
+            width: 350px;
+        }
+
+        .multimedia_blk i {
+            height: 170px;
+            width: 100%;
+        }
+
+        section.multimedia .up_down_arrw {
+            right: 20px;
+            display: block;
+        }
+
+        .mlt_sgl_item i {
+            width: 535px;
+            height: 355px;
+        }
+
+        .mlt_slider .owl-nav {
+            max-width: 590px;
+        }
+
+        section.mlt_Vertical .mlt_sgl_item i {
+            width: 350px;
+            height: 525px;
+        }
+
+        section.mlt_Vertical .owl-nav {
+            max-width: 410px;
+        }
+
+        section.mlt_Vertical h6 {
+            max-width: 370px;
+            display: block;
+        }
+
+        section.Crear_sec .hazte_wrp.mx-auto {
+            max-width: 350px;
+        }
+
+        section.Crear_sec .Crear_btn {
+            max-width: 350px;
+        }
+
+        .Olvidaste {
+            max-width: 350px;
+        }
+
+        .Mi_cuenta_left {
+            margin: unset;
+        }
+
+        section.Pedido_sec .Modificar_form.hazte_wrp {
+            max-width: 100%;
+        }
+    }
+
+
+    /* Tablet screen :768px. ========================================================*/
+
+    @media (min-width: 768px) and (max-width: 991px) {
+        div#btm_menu {
+            display: none;
+        }
+
+        .desktop_show {
+            display: none;
+        }
+
+        footer .row .col-lg-9,
+        footer .row .col-lg-1 {
+            display: none;
+        }
+
+        a.fl_left {
+            display: none;
+        }
+
+        .left_link ul {
+            width: max-content;
+            margin: auto;
+            position: relative;
+        }
+
+        .left_link_list {
+            position: unset;
+        }
+
+        .left_link ul li {
+            position: absolute;
+            opacity: 0;
+        }
+
+        .left_link ul li.active {
+            opacity: 1;
+        }
+
+        .left_link ul li.active:before {
+            width: 35px;
+            height: 1px;
+            left: -45px;
+            top: 10px;
+        }
+
+        .left_link ul li.active:after {
+            content: "";
+            position: absolute;
+            top: 11px;
+            right: -45px;
+            width: 35px;
+            height: 1px;
+            background: white;
+        }
+
+        .left_link ul:before {
+            display: none;
+        }
+
+        .logo-area {
+            flex-direction: column;
+        }
+
+        .src_box {
+            margin: 0;
+            margin-top: 20px;
+            width: 90%;
+        }
+
+        .sub_menu_ul li a {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .sub_menu_right ul li a {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .page_1 {
+            margin: 0px 0 30px;
+        }
+
+        .page_1_cont p {
+            font-size: 20px;
+        }
+
+        .page1-3cont_wrp {
+            justify-content: center;
+        }
+
+        .page1-3conts_left img {
+            max-width: 450px;
+            margin: auto;
+            margin-bottom: 30px;
+        }
+
+        .mobile_show {
+            display: block;
+        }
+
+        h5.page1-4_text {
+            margin-bottom: 20px;
+            margin-top: 40px;
+        }
+
+        .page1-5cont.text-center img {
+            transform: rotate(270deg);
+            max-width: 470px;
+            margin-bottom: 60px;
+        }
+
+        .page1-5cont.text-center .page1-3cont {
+            transform: translateY(144px);
+            max-width: 70%;
+            margin: auto;
+        }
+
+        .page1-5cont.text-center {
+            margin-top: 75px;
+        }
+
+        .home3_left {
+            max-width: 430px;
+            margin: auto;
+        }
+
+        .home3_cont h1 {
+            font-size: 50px;
+        }
+
+        .home3_cont {
+            text-align: center;
+            margin: auto;
+        }
+
+        p.Lugar {
+            display: none;
+        }
+
+        .home3_cont span {
+            margin: auto;
+        }
+
+        .home3_cont .p1_btn {
+            margin: auto;
+            margin-top: 15px;
+        }
+
+        .home3_cont h6 {
+            margin-bottom: 16px;
+        }
+
+        .home3_cont h5 {
+            width: max-content;
+            margin: 20px auto;
+        }
+
+        .vinos_blk .nice-select {
+            width: 250px;
+            margin-bottom: 25px;
+            height: 150px;
+        }
+
+        .rosados_img {
+            max-width: 450px;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        .up_down_arrw {
+            display: none;
+        }
+
+        .bono_left {
+            width: 450px;
+        }
+
+        .bono_left .info_blk p {
+            max-width: 430px;
+        }
+
+        .bono_right {
+            max-width: 450px;
+            background: #000;
+        }
+
+        .bono_left img {
+            /* max-width: 430px; */
+            margin: auto;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+
+        section.full_slider.vinos {
+            padding-top: 50px;
+            background: #000;
+        }
+
+        .vinos_src p {
+            display: none;
+        }
+
+        .src_box.vinos_src_box {
+            display: none;
+        }
+
+        .vinos_src {
+            margin-bottom: 40px;
+        }
+
+        section.full_slider.newslatter.black {
+            padding-bottom: 200px;
+            overflow: auto;
+        }
+
+        .info_blk {
+            width: 90%;
+        }
+
+        .club_left {
+            max-width: 440px;
+            margin: auto;
+            margin: 116px auto 25px;
+        }
+
+        section.full_slider.club_sec {
+            background: black;
+            overflow: hidden;
+        }
+
+        .club_right a {
+            /* bottom: auto; */
+            position: unset;
+            margin: 10px auto 10px;
+            background: black;
+            display: block;
+            left: 50%;
+            width: max-content;
+        }
+
+        .club_right {
+            height: 100%;
+            /* overflow: auto; */
+            max-width: 500px;
+            margin: auto;
+            /* max-height: 300px; */
+            text-align: center;
+        }
+
+        .club_right ul {
+            max-height: 170px;
+            overflow: auto;
+        }
+
+        .club_right ul li {
+            text-align: left;
+        }
+
+        h6.club_title {
+            display: none;
+        }
+
+        #club_title {
+            display: block !important;
+            text-align: center;
+        }
+
+        section.full_slider.club_sec2 {
+            padding-top: 399px;
+            background: black;
+            padding-bottom: 10px;
+            overflow: auto;
+        }
+
+        .clb_sct {
+            position: absolute;
+            margin-bottom: 0;
+            right: 10px;
+            top: 30px;
+            transform: translateY(-10px);
+        }
+
+        h6.clb2 {
+            margin-top: 30px;
+        }
+
+        section.full_slider.club_sec2 .container {
+            max-width: 620px;
+        }
+
+        section.full_slider.newslatter.black .row {
+            margin-top: 585px;
+        }
+
+        main#resultado section {
+            overflow: auto;
+            padding-top: 281px;
+        }
+
+        .resultado_hd {
+            background: black;
+        }
+
+        .club2_right_scll {
+            padding-bottom: 30px;
+            text-align: center;
+            max-height: unset;
+            overflow: auto;
+        }
+
+        ul.club2_ul1 {
+            width: max-content;
+            margin: auto;
+            text-align: left;
+        }
+
+        .club2_right a.btn {
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        section.full_slider.hazte.black {
+            overflow: auto;
+        }
+
+        h5.hazte_title {
+            margin-top: 27px;
+            max-width: 450px;
+            margin-bottom: 0;
+        }
+
+        .hazte_wrp {
+            margin: auto;
+            max-width: 450px;
+            margin-top: 15px;
+        }
+
+        .Modificar_form {
+            margin: auto;
+            max-width: 450px;
+            margin-top: 15px;
+        }
+
+        .hazte_wrp.realiz_2wrp.rlz {
+            max-width: 450px;
+            margin: auto;
+        }
+
+        .hazte_wrp .input_blk {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        section.mdp {
+            padding-top: 120px !important;
+        }
+
+        section.mdp .slider_page {
+            display: unset;
+        }
+
+        .home_sec3 h6.sec_title {
+            margin-top: 15px;
+        }
+
+        .header-area {
+            background: black;
+        }
+
+        .hazte_wrp .input_blk.hazte_1input input {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .hazte_2input {
+            display: block;
+        }
+
+        .hazte_2input input {
+            margin-bottom: 10px;
+        }
+
+        .p2_btn {
+            display: flex;
+            flex-direction: column;
+            width: max-content;
+            margin: auto;
+        }
+
+        .act_footer {
+            padding: 40px 0 30px;
+        }
+
+        .act_footer a {
+            text-align: center;
+            display: block !important;
+        }
+
+        section#Actividades .owl-nav {
+            position: fixed;
+            top: auto;
+            bottom: 10px;
+        }
+
+        a.texto.title {
+            display: none;
+        }
+
+        section.full_slider.carrito.mdp {
+            margin-top: 50px;
+        }
+
+        section.full_slider.carrito.carrito2.mdp {
+            margin: 0;
+            overflow: auto;
+            margin-bottom: 30px;
+        }
+
+        body.realize2 section {
+            margin: 20px 0;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 p {
+            width: 100%;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp a {
+            left: 55%;
+        }
+
+        .Mallorca_card i {
+            width: 140px;
+            height: 140px;
+            margin: auto;
+        }
+
+        .carrito_top_check h5 {
+            margin-top: 0;
+        }
+
+        .pago_blk .checkmark {
+            left: 50%;
+            top: -34px;
+        }
+
+        .pago_blk span {
+            text-align: center;
+            max-width: 150px;
+        }
+
+        .pago_last_blk {
+            flex-direction: column;
+        }
+
+        .carrito2 .carrito_btn_wrp {
+            margin-bottom: 55px;
+        }
+
+        .pago_blk2_wrp {
+            margin: 20px 0;
+        }
+
+        .error_wrp {
+            max-width: 600px;
+            margin-top: 40px;
+        }
+
+        .c_form .top_form.mb_form.d-none.show_form {
+            max-width: 300px;
+        }
+
+        .Newsletter input {
+            width: 300px;
+        }
+
+        .nice-select.multimedia_sl {
+            height: unset;
+        }
+
+        section.multimedia {
+            margin-top: 15px;
+        }
+
+        .multimedia_all_blk {
+            margin: 20px auto;
+            overflow: auto;
+            height: unset;
+            padding: 0 20px;
+            max-width: 620px;
+        }
+
+        .multimedia_blk i {
+            width: 100%;
+            height: 200px;
+            margin: auto;
+        }
+
+        .m_media_footer {
+            display: none;
+        }
+
+        .mlt_sgl_item i {
+            width: 450px;
+            height: 300px;
+        }
+
+        .mlt_slider .owl-nav {
+            max-width: 510px;
+        }
+
+        .mlt_sgl_item {
+            max-width: 450px;
+        }
+
+        section.mlt_Vertical .mlt_sgl_item i {
+            width: 300px;
+            height: 440px;
+        }
+
+        section.mlt_Vertical .owl-nav {
+            max-width: 365px;
+        }
+
+        section.mlt_Vertical h6 {
+            max-width: 280px;
+        }
+
+        .Mallorca_wrp {
+            flex-wrap: wrap;
+        }
+
+        .Mallorca_card {
+            margin-bottom: 15px;
+        }
+
+        section.Crear_sec .hazte_wrp.mx-auto {
+            max-width: 450px;
+        }
+
+        section.Crear_sec .Crear_btn {
+            max-width: 450px;
+        }
+
+        .hazte_wrp.cuenta_wrp h5 {
+            position: unset;
+        }
+
+        .fm_none {
+            display: none;
+        }
+
+        .Olvidaste {
+            max-width: 350px;
+        }
+
+        .mi_mis {
+            justify-content: center;
+            display: block;
+        }
+
+        .mi_mis_wrp {
+            margin: auto;
+            margin-bottom: 30px;
+        }
+
+        .Mi_cuenta_left {
+            max-width: 440px;
+            margin: unset;
+            margin: auto;
+            width: 100%;
+            margin: 20px auto;
+        }
+
+        .Mi_cuenta_left .mi_mis_wrp {
+            margin: unset;
+        }
+
+        a.btn.Cr_btn.Guardar {
+            margin-bottom: 50px;
+            float: unset;
+        }
+
+        .Modificar {
+            max-width: 435px;
+            margin: auto;
+            margin-top: 20px;
+        }
+
+        .Modificar_blk:nth-child(2) {
+            margin: 35px 0px;
+        }
+
+        section.Pedido_sec .Mi_cuenta_left.modif_left {
+            max-width: 620px;
+        }
+
+        section.Pedido_sec .Modificar_form.hazte_wrp {
+            max-width: 620px;
+            margin: auto;
+        }
+
+        section.Pedido_sec .carrito_price.mdf_price {
+            max-width: 620px;
+            margin: auto;
+            margin-top: 55px;
+        }
+
+        section.Pedido_sec .container.sp_container {
+            max-width: 620px;
+        }
+        
+        section.Historial_sec .container.sp_container {
+            max-width: 670px;
+        }
+    }
+
+
+    /* small screen :320px. ========================================================*/
+
+    @media (max-width: 767px) {
+        .header-area {
+            background: black;
+        }
+
+        div#btm_menu {
+            display: none;
+        }
+
+        .mobile-menu {
+            width: 100%;
+        }
+
+        .left_link ul:before {
+            display: none;
+        }
+
+        .logo-area {
+            flex-direction: column;
+        }
+
+        .src_box {
+            margin: 0;
+            margin-top: 20px;
+            width: 90%;
+        }
+
+        .sub_menu_ul li a {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .sub_menu_right ul li a {
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .page_1 {
+            margin: 0px 0 30px;
+        }
+
+        .page_1_cont p {
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 1.5;
+        }
+
+        .menu_item {
+            width: max-content;
+            margin-left: auto;
+        }
+
+        .page_1_none {
+            display: none;
+        }
+
+        .page1-3cont_wrp {
+            justify-content: center;
+            text-align: center;
+            max-width: 250px;
+            margin: auto;
+        }
+
+        .page1-3cont h5 {
+            font-size: 22px;
+        }
+
+        .page1-3conts_left img {
+            max-width: 250px;
+            margin: auto;
+            margin-bottom: 30px;
+        }
+
+        .mobile_show {
+            display: block;
+        }
+
+        .desktop_show {
+            display: none;
+        }
+
+        h5.page1-4_text {
+            margin-bottom: 20px;
+            margin-top: 40px;
+        }
+
+        .page1-5cont.text-center img {
+            transform: rotate(270deg);
+            max-width: 270px;
+            margin-bottom: -2px;
+        }
+
+        .page1-5cont.text-center .page1-3cont {
+            transform: translateY(144px);
+            margin: auto;
+        }
+
+        .page1-5cont.text-center .page1-4_blk_btm .p1_btn {
+            margin: unset;
+        }
+
+        .page1-5cont.text-center .page1-4_blk_btm {
+            justify-content: space-between;
+        }
+
+        .page1-5cont.text-center .page1-4_blk_btm a {
+            margin: unset;
+        }
+
+        .home3_cont span {
+            margin: auto;
+            font-size: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: max-content;
+            margin-left: -28px;
+        }
+
+        .home3_cont .p1_btn {
+            margin: auto;
+            margin-top: 15px;
+        }
+
+        .home3_cont h6 {
+            margin-bottom: 16px;
+        }
+
+        .home3_cont h1 {
+            font-size: 35px;
+        }
+
+        .home3_cont {
+            text-align: center;
+            max-width: 240px;
+            margin: auto;
+            margin-top: 10px;
+        }
+
+        p.Lugar {
+            display: none;
+        }
+
+        footer .row .col-lg-9,
+        footer .row .col-lg-1 {
+            display: none;
+        }
+
+        a.fl_left {
+            display: none;
+        }
+
+        .left_link ul {
+            width: max-content;
+            margin: auto;
+            position: relative;
+        }
+
+        .left_link_list {
+            position: unset;
+        }
+
+        .left_link ul li {
+            position: absolute;
+            opacity: 0;
+        }
+
+        .left_link ul li.active {
+            opacity: 1;
+        }
+
+        .left_link ul li.active:before {
+            width: 35px;
+            height: 1px;
+            left: -45px;
+            top: 10px;
+        }
+
+        .left_link ul li.active:after {
+            content: "";
+            position: absolute;
+            top: 11px;
+            right: -45px;
+            width: 35px;
+            height: 1px;
+            background: white;
+        }
+
+        .home3_left {
+            max-width: 240px;
+            margin: auto;
+        }
+
+        .home3_cont p {
+            margin-right: 15px;
+        }
+
+        .home3_cont h5 {
+            display: none;
+        }
+
+        .productos {
+            justify-content: space-between;
+            max-width: 365px;
+            margin: 0 auto 30px;
+        }
+
+        .productos ul {
+            width: 160px;
+            margin: auto;
+            margin-bottom: 15px;
+        }
+
+        section.full_slider.vinos {
+            padding-top: 30px;
+            background: #000;
+        }
+
+        .vinos_src p {
+            display: none;
+        }
+
+        .src_box.vinos_src_box {
+            display: none;
+        }
+
+        .vinos_src {
+            margin-bottom: 10px;
+            width: 100%;
+            text-align: center;
+        }
+
+        section.full_slider.newslatter.black {
+            padding-bottom: 200px;
+            overflow: auto;
+        }
+
+section.full_slider.newslatter.black.bono_left {
+    overflow: unset;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+
+        .chk_submit {
+            flex-wrap: wrap;
+            justify-content: end;
+        }
+
+        .bono_left img {
+            width: 100%;
+        }
+
+        .rosados_img img {
+            max-width: 240px;
+            margin: auto;
+        }
+
+        .rosados_img {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .vinos_blk .nice-select {
+            height: 125px;
+            margin-top: 30px;
+            max-width: 200px;
+        }
+
+        ul.rosados_list li {
+            flex-direction: column;
+            max-width: 370px;
+            margin: auto;
+        }
+
+        .rosados_blk_left ul li {
+            width: max-content;
+        }
+
+        .up_down_arrw {
+            display: none;
+        }
+
+        .rosados_title ul {
+            display: none;
+        }
+
+        ul.rosados_list li .rosados_blk_left {
+            margin-bottom: 13px;
+        }
+
+        .rosados_title {
+            max-width: 370px;
+            margin: auto;
+        }
+
+        .rosados_cont h5 {
+            max-width: 370px;
+            margin: auto;
+            margin-bottom: 15px;
+        }
+
+        .bono_left {
+            max-width: 350px;
+            margin: auto;
+        }
+
+        .bono_right {
+            max-width: 350px;
+            margin: auto;
+        }
+
+        .vinos_src h5 {
+            width: 100%;
+        }
+
+        .club_left {
+            max-width: 250px;
+            margin: auto;
+            margin: 27px auto 25px;
+        }
+
+        section.full_slider.club_sec {
+            background: black;
+            /* overflow: hidden; */
+            overflow: auto;
+            height: max-content;
+        }
+
+        .club_right a {
+            /* bottom: auto; */
+            position: unset;
+            margin: 20px auto 20px;
+            background: black;
+            display: block;
+            left: 50%;
+            width: max-content;
+        }
+
+        .club_right {
+            /* overflow: auto; */
+            max-width: 300px;
+            margin: auto;
+            text-align: center;
+        }
+
+        .club_right ul li {
+            text-align: left;
+        }
+
+        .club_right ul li p {
+            width: 89%;
+        }
+
+        h6.club_title {
+            display: none;
+        }
+
+        #club_title {
+            display: block !important;
+            text-align: center;
+        }
+
+        section.full_slider.newslatter.black .row {
+            margin-top: 585px;
+        }
+
+        .Destilados {
+            overflow: auto;
+            padding-top: 80px;
+        }
+
+        main#resultado section {
+            overflow: auto;
+            padding-top: 180px;
+        }
+
+        .club2_right_scll {
+            padding-bottom: 30px;
+            text-align: center;
+            overflow: auto;
+            height: max-content;
+            max-height: 100%;
+        }
+
+        .clb_sct {
+            margin-top: 20px;
+        }
+
+        ul.club2_ul1 {
+            width: max-content;
+            margin: auto;
+            text-align: left;
+        }
+
+        .club_sec2_none {
+            display: none;
+        }
+
+        section.full_slider.club_sec2 {
+            padding-top: 133px;
+            background: black;
+            padding-bottom: 20px;
+            overflow: auto;
+        }
+
+        .club_sgl-img {
+            text-align: center;
+            width: max-content;
+            margin: auto;
+        }
+
+        .club2_right a.btn {
+            margin: auto;
+        }
+
+        h6.clb2 {
+            margin: auto;
+            text-align: center;
+            margin-bottom: 10px;
+            margin-top: -20px;
+        }
+
+        section.full_slider.club_sec2 .col-12 {
+            display: block !important;
+        }
+
+        .club_m_slider .owl-dots {
+            display: flex;
+            width: max-content;
+            margin: auto;
+            transform: translateY(15px);
+        }
+
+        .club_m_slider .owl-dot {
+            width: 10px;
+            height: 10px;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            margin: 0 2px;
+        }
+
+        .club_m_slider .owl-dot.active {
+            background: #fff;
+        }
+
+        section.full_slider.hazte.black {
+            overflow: auto;
+        }
+
+        h5.hazte_title {
+            margin-top: 27px;
+            max-width: 450px;
+            margin-bottom: 15px;
+        }
+
+        .hazte_wrp {
+            margin: 30px auto;
+            max-width: 450px;
+        }
+
+        .hazte_wrp .input_blk {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .input_blk.textarea textarea {
+            height: 150px;
+            padding: 10px;
+        }
+
+        section.mdp {
+            padding-top: 120px !important;
+        }
+        .crp {
+    max-width: 320px;
+    margin: auto;
+}
+
+        section.mdp .slider_page {
+            display: unset;
+        }
+
+        .header-area {
+            background: black;
+        }
+
+        .hazte_wrp .input_blk.hazte_1input input {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .hazte_2input {
+            display: block;
+        }
+
+        .hazte_2input input {
+            margin-bottom: 10px;
+        }
+
+        .hazte_rdio_btn {
+            display: block;
+        }
+
+        .hazte_rdio_wrp {
+            width: 100%;
+            justify-content: inherit;
+            max-width: 190px;
+            margin-top: 15px;
+        }
+
+        .hazte_rdio_wrp label {
+            margin: 0;
+        }
+
+        .hazte_wrp .chk_submit {
+            justify-content: start;
+        }
+
+        .IBAN ul li a {
+            display: block;
+            margin-bottom: 10px;
+            margin-right: 5px;
+        }
+
+        .IBAN ul {
+            margin-bottom: 10px;
+        }
+
+        .p2_btn {
+            display: flex;
+            flex-direction: column;
+            width: max-content;
+            margin: auto;
+        }
+
+        .act_footer {
+            padding: 40px 0 30px;
+        }
+
+        .act_footer a {
+            text-align: center;
+            display: block !important;
+        }
+
+        section#Actividades .owl-nav {
+            position: fixed;
+            top: auto;
+            bottom: 10px;
+        }
+
+        section#Actividades h6.sec_title {
+            margin-top: 20px;
+        }
+
+        .carrito_price_blk {
+            display: block;
+            min-width: 310px;
+            width: 100%;
+            margin: auto;
+            margin-bottom: 30px;
+            max-width: 310px;
+        }
+
+        .carrito_price_cont ul {
+            top: -28px;
+            display: flex !important;
+            max-width: 300px;
+            margin-right: 8px;
+        }
+
+        .carrito_price_cont {
+            margin-top: 40px;
+            max-width: 310px;
+        }
+
+        .carrito_price_cont ul li:nth-child(2) {
+            margin-left: 35px;
+        }
+
+section.Pedido_sec .carrito_price_cont ul li:nth-child(1) {
+    margin-left: 40px;
+}
+
+section.Pedido_sec .carrito_price_cont ul li:nth-child(2) {
+    margin: unset;
+}
+
+        .carrito_2 ul li:first-child {
+            display: block;
+            margin-bottom: 20px;
+        }
+
+        section.carrito .row:last-child {
+            max-width: 320px;
+            margin: auto;
+        }
+
+        .carrito_btn_wrp {
+            display: block;
+        }
+
+        .carrito_btn a {
+            max-width: 100%;
+        }
+
+        a.texto.title {
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        h5.title {
+            max-width: 310px;
+            margin: auto;
+            margin: 30px auto;
+        }
+
+        a.real {
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        h5.r_title {
+            width: 100%;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp {
+            width: max-content;
+            margin-left: auto;
+        }
+
+        .hazte_rdio_btn.hrb_2.hrb_22 .hazte_rdio_wrp a {
+            left: 60%;
+        }
+
+        body.realize2 section {
+            margin: 10px 0 10px;
+        }
+
+        body.realize2 footer {
+            display: none;
+        }
+
+        .Mallorca_card i {
+            width: 140px;
+            height: 140px;
+            margin: auto;
+        }
+
+        .Mallorca_card {
+            margin-bottom: 30px;
+        }
+
+        .Mallorca_cont {
+            margin-bottom: 15px;
+        }
+
+        section.Mallorca .slider_page {
+            display: unset;
+        }
+
+        .Mallorca {
+            padding-top: 85px;
+        }
+
+        .Mallorca_title a {
+            left: 47%;
+            top: -60px;
+        }
+
+        .Mallorca_wrp {
+            flex-wrap: wrap;
+        }
+
+        .carrito_price_blk {
+            max-width: 100%;
+        }
+
+        .carrito_top_check h5 {
+            margin: 30px 0 10px;
+        }
+
+        .carrito_top_check .hazte_rdio_btn.hrb_2 {
+            margin-bottom: 30px;
+        }
+
+        .carrito2 .rosados_blk_right.carrito_price_cont {
+            margin-left: auto;
+        }
+
+        .carrito2 .rosados_blk_right.carrito_price_cont ul {
+            max-width: 261px;
+        }
+
+        .carrito2 .rosados_blk_right.carrito_price_cont ul li:nth-child(2) {
+            margin: 0;
+        }
+
+        .carrito2 .carrito_btn_wrp a {
+            width: 220px !important;
+            padding: 0;
+            justify-content: center;
+            margin: 0 auto 20px;
+        }
+
+        .pago_blk {
+            margin: auto;
+            max-width: 220px;
+        }
+
+        .pago_blk2_wrp {
+            margin-top: 0;
+            margin-left: -20px;
+            margin-bottom: 20px;
+        }
+
+        .pago_blk .chk_submit {
+            justify-content: space-evenly;
+        }
+
+        .pago_blk2_wrp .pago_blk .checkmark {
+            left: 0;
+            top: 9%;
+        }
+
+        .pago_blk2_wrp .pago_blk {
+            max-width: 155px;
+            width: max-content;
+            margin-right: 12px;
+        }
+
+        .pago_blk2_wrp .pago_blk label span {
+            text-align: left;
+        }
+
+        .pago_blk2_wrp .pago_blk:last-child {
+            margin: 0;
+        }
+
+        .carrito2 {
+            margin-bottom: 30px;
+        }
+
+        section.carrito .row:nth-child(2) {
+            /* margin: unset; */
+            --bs-gutter-x: -0rem;
+        }
+
+        .error_wrp {
+            max-width: 350px;
+            margin-top: 40px;
+        }
+
+        .c_form .top_form.mb_form.d-none.show_form {
+            max-width: 300px;
+        }
+
+        .iniciada_blk {
+            max-width: 190px;
+        }
+
+        .Newsletter input {
+            width: 300px;
+        }
+
+        .nice-select.multimedia_sl {
+            height: unset;
+            margin-top: 0;
+        }
+
+        section.multimedia {
+            margin-top: 15px;
+        }
+
+        .multimedia_all_blk {
+            margin: 20px 0;
+            overflow: auto;
+            height: unset;
+            padding: 0 20px;
+        }
+
+        .multimedia_blk i {
+            max-width: 300px;
+            height: 200px;
+            margin: auto;
+        }
+
+        .m_media_footer {
+            display: none;
+        }
+
+        p.HECHO {
+            max-width: 300px;
+            margin: auto;
+            margin-bottom: 10px;
+            margin-top: 15px;
+        }
+
+        .mlt_sgl_item i {
+            width: 300px;
+            height: 200px;
+        }
+
+        .mlt_slider .owl-nav {
+            max-width: 300px;
+            bottom: -35px;
+            top: auto;
+        }
+
+        .mlt_sgl_item {
+            width: 300px;
+        }
+
+        section.mlt_Vertical .mlt_sgl_item i {
+            width: 225px;
+            height: 335px;
+        }
+
+        section.mlt_Vertical .owl-nav {
+            max-width: 220px;
+        }
+
+        section.mlt_Vertical h6 {
+            max-width: 210px;
+        }
+
+        section.Mallorca2 .Mallorca_title {
+            margin-bottom: 30px;
+        }
+
+        section.Crear_sec .hazte_wrp.mx-auto {
+            max-width: 310px;
+        }
+
+        section.Crear_sec .Crear_btn {
+            max-width: 310px;
+        }
+
+        .Crear_btn .chk_submit.hazte_submit {
+            flex-wrap: unset;
+        }
+
+        .hazte_wrp.cuenta_wrp h5 {
+            position: unset;
+        }
+
+        .fm_none {
+            display: none;
+        }
+
+        .Olvidaste {
+            max-width: 350px;
+        }
+
+        .mi_mis {
+            justify-content: center;
+        }
+
+        .mi_mis_wrp {
+            margin-bottom: 30px;
+        }
+
+        .Mi_cuenta_left {
+            max-width: 285px;
+            margin: unset;
+            width: 100%;
+            margin: 20px 0;
+        }
+
+        .Mi_cuenta_left.modif_left {
+            padding: 0 20px;
+            max-width: 100%;
+        }
+
+
+
+        .Mi_cuenta_left .mi_mis_wrp {
+            margin: unset;
+            width: 100%;
+        }
+
+        a.btn.Cr_btn.Guardar {
+            float: unset;
+            margin-bottom: 50px;
+        }
+
+        .cr_submit.Guardar-2btn a.btn.Cr_btn.Guardar {
+            margin-bottom: 15px;
+        }
+
+        .cr_submit.Guardar-2btn {
+            margin-bottom: 20px;
+            justify-content: center;
+            display: block;
+            margin: auto;
+            width: max-content;
+        }
+
+        .Modificar {
+            max-width: 435px;
+            margin: auto;
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
+
+        .Modificar_blk {
+            flex-wrap: wrap;
+            justify-content: left;
+        }
+
+        .Modificar_blk a.btn.Cr_btn {
+            margin-left: auto;
+        }
+
+        .carrito_2.Pedido_price {
+            margin: 0;
+            padding: 0 20px;
+        }
+
+        .carrito_2.Pedido_price ul li:first-child {
+            display: flex;
+        }
+
+        .Pedido {
+            display: block;
+        }
+
+        .Pedido h6:nth-child(2) {
+            text-align: left;
+        }
+
+        .carrito_price.mdf_price {
+            margin-top: 25px;
+        }
+
+        .carrito_price.mdf_price .rosados_blk_right.carrito_price_cont {
+            margin-left: auto;
+        }
+
+section.Pedido_sec .carrito_price.mdf_price .rosados_blk_right.carrito_price_cont {}
+ 
+        .Historial.Modificar_form.hazte_wrp ul li{
+    display: block;
+}
+
+.Historial.Modificar_form.hazte_wrp ul {
+    margin: 30px 0;
+}
+
+.Historial.Modificar_form.hazte_wrp ul li h6 {
+    margin-bottom: 20px;
+}
+
+.Historial.Modificar_form.hazte_wrp ul li a {
+    margin-left: auto;
+    width: 145px;
+}
+
+footer.f_position.footer.black.priv_ftr {
+    display: none;
+}
+
+.rosados_wrp {
+    height: auto;
+}
+
+
+
+
+
+
+
+
+    }
+
+
+}
+
+
+@media (max-width: 450px) {
+    .menu_item {
+        margin-left: -20px;
+    }
+
+    .src_box {
+        width: 300px;
+    }
+
+    .page_1-2_cont h3 {
+        font-size: 35px;
+    }
+
+    .page_1-2_cont h4 {
+        font-size: 26px;
+    }
+
+    .page_1-2_cont ul li a {
+        font-size: 15px;
+    }
+
+    .mb_menu_item .top_form.recent_item {
+        right: 0px;
+    }
+
+    main#vinos {
+        overflow: hidden;
+    }
+
+    .price2 span {
+        display: none;
+    }
+
+    .price2 a {
+        transform: translateY(0px);
+    }
+
+    ul.rosados_list li .rosados_blk_left {
+        margin-bottom: 0px;
+    }
+
+    ul.rosados_list li {
+        margin-bottom: 25px;
+    }
+
+    .rosados_blk_left ul li {
+        margin: 0;
+    }
+
+    p.productosP {
+        margin-bottom: 35px;
+    }
+
+    .productos ul {
+        text-align: center;
+    }
+
+    .info_blk p {
+        width: 250px;
+    }
+
+    .bono_left {
+        margin-top: 100px;
+    }
+
+    .hazte_wrp {
+        max-width: 300px;
+        margin-top: 15px;
+    }
+
+    .Modificar_form {
+        margin-top: 15px;
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    .hazte_wrp.realiz_2wrp.rlz {
+        max-width: 300px;
+        margin: auto;
+    }
+
+    h5.hazte_title {
+        max-width: 300px;
+        margin-bottom: 0px;
+    }
+
+    .Actualidad ul li a {
+        max-width: 300px;
+    }
+
+    .Bancaria {
+        max-width: 310px;
+    }
+
+    .carrito_price.mdf_price {
+        padding: 0 20px;
+    }
+
+    .carrito_price.mdf_price .inc_dec span {
+        /* margin: unset; */
+        /* margin-left: 20px; */
+    }
+    .menu_item {
+        margin-left: -20px;
+    }
+
+    .src_box {
+        width: 300px;
+    }
+
+    .page_1-2_cont h3 {
+        font-size: 35px;
+    }
+
+    .page_1-2_cont h4 {
+        font-size: 26px;
+    }
+
+    .page_1-2_cont ul li a {
+        font-size: 15px;
+    }
+
+    .mb_menu_item .top_form.recent_item {
+        right: 0px;
+    }
+
+    main#vinos {
+        overflow: hidden;
+    }
+
+    .price2 span {
+        display: none;
+    }
+
+    .price2 a {
+        transform: translateY(0px);
+    }
+
+    ul.rosados_list li .rosados_blk_left {
+        margin-bottom: 0px;
+    }
+
+    ul.rosados_list li {
+        margin-bottom: 25px;
+    }
+
+    .rosados_blk_left ul li {
+        margin: 0;
+    }
+
+    p.productosP {
+        margin-bottom: 35px;
+    }
+
+    .productos ul {
+        text-align: center;
+        width: 100%;
+    }
+
+    .info_blk p {
+        width: 250px;
+    }
+
+    .bono_left {
+        margin-top: 100px;
+    }
+
+    .hazte_wrp {
+        max-width: 300px;
+        margin-top: 15px;
+    }
+
+    .Modificar_form {
+        margin-top: 15px;
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    .hazte_wrp.realiz_2wrp.rlz {
+        max-width: 300px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    h5.hazte_title {
+        max-width: 300px;
+        margin-bottom: 0px;
+    }
+
+    .Actualidad ul li a {
+        max-width: 300px;
+    }
+
+    .Bancaria {
+        max-width: 310px;
+    }
+    .privacidad {
+        padding: 0 20px;
+    }
+
+}
+
+
+
+/* Large Mobile screen :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 450px
+    }
+
+    section.Crear_sec .hazte_wrp.mx-auto {
+        max-width: 350px;
+    }
+
+    section.Crear_sec .Crear_btn {
+        max-width: 350px;
+    }
+
+    .Crear_btn .chk_submit.hazte_submit {
+        flex-wrap: unset;
+    }
+
+    .Mi_cuenta_left {
+        max-width: 415px;
+    }
+
+    .Mi_cuenta_left .mi_mis_wrp {
+        max-width: 260px;
+    }
+
+    .Modificar_blk {
+        flex-wrap: unset;
+        justify-content: left;
+    }
+
+    .Modificar_blk a.btn.Cr_btn {
+        margin: unset;
+    }
+
+    .Mi_cuenta_left {
+        margin: 20px auto;
+    }
+
+    .Mi_cuenta_left.modif_left {
+        padding: 0;
+    }
+
+    .Pedido {
+        flex-wrap: wrap;
+    }
+
+    .Pedido h6:nth-child(2) {
+        text-align: left;
+    }
+    .carrito_2.Pedido_price{
+    padding: 0;
+}
+.carrito_price.mdf_price .inc_dec span{
+    /* margin: unset; */
+    /* margin-left: 21px; */
+}
+}
+
+
+@media (max-width: 340px) {
+    .top_form.top_cont.d-none.show_form {
+        padding-left: 0;
+        padding-right: 50px;
+    }
+
+    .top_form.mb_form.d-none.show_form {
+        padding-left: 0;
+        padding-right: 50px;
+    }
+
+    section:nth-child(4) {
+        padding-top: 250px;
+    }
+}
+}
